@@ -37,8 +37,8 @@ layout: default
     </ul>
   </div>
   <div class="flex flex-col items-end">
-    <img src="./public/images/photo.jpg" class="w-64">
-    <img src="./public/images/romajs.png" class="w-24">
+    <img src="/images/photo.jpg" class="w-64">
+    <img src="/images/romajs.png" class="w-24">
   </div>
 </div>
 
@@ -406,7 +406,7 @@ module.exports = {
 
 # Webpack vs <img src="https://assets.rspack.rs/rspack/rspack-logo.svg" style="display: inline; height: 30px; vertical-align: baseline" /> Rspack
 
-![comparison](./public/images/rspack-speed.png)
+![comparison](/images/rspack-speed.png)
 
 <v-click>
 
